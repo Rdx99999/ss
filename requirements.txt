@@ -1,3 +1,3 @@
 telebot
 wget
-ffmpeg-python
+ffmpeg
